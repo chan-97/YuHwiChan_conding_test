@@ -1,0 +1,16 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "News"
+    },
+    {
+      "id": 2,
+      "name": "Contact"
+    },
+    {
+      "id": 3,
+      "name": "About"
+    }
+  ]
+}
